@@ -39,7 +39,7 @@ header{
     background-image: url(/images/header_bg.png);
     background-repeat: no-repeat;
     background-position: bottom right;
-    background-size: 45%;
+    background-size: 48%;
 }
 /* .developer-image{
     background-image: url(/images/developer.png);
@@ -80,12 +80,46 @@ header{
     font-style: normal;
     font-weight: 600;
 }
-.banner-descreption{
+.descreption{
     color:#757575;
-    font-size:13px;
+    font-size:12px;
     font-weight:400;
     margin-bottom: 10px;
 }
 .person_img{
     width: 93%;
+}
+/* About Section */
+.about{
+    width: 70%;
+    border-radius: 10px;
+    background: #FFF8F3;
+    margin: auto;
+    text-align: center;
+    padding: 50px;
+    margin-top: 50px;
+
+}
+.about-d h2 , ds{
+    margin-bottom: 20px;
+}
+.info{
+    display: flex;
+    justify-content: space-around;
+}
+.re-sizer{
+    margin: auto;
+    width: 93%;
+}
+.info h5{
+    color:#757575;
+    font-size: 12px;
+}
+.info h4{
+    color:#474747;
+    font-size: 17px;
+    font-weight: 600;
+}
+.info , .email , .date-of-birth , .from{
+    margin: 4px 7px;
 }
