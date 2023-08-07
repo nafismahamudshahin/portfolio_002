@@ -19,6 +19,7 @@ nav ul {
 }
 nav h2 {
     margin-left: 126px;
+    color: #181818;
 }
 .primary-text{
     color:#FD6E0A;
@@ -47,6 +48,7 @@ nav h2 {
     align-items: center;
 }
 .banner-sub-title{
+    color: #474747;
     font-size: 45px;
     font-style: normal;
     font-weight: 600;
@@ -54,13 +56,15 @@ nav h2 {
 }
 .banner-title{
     font-size: 55px;
+    color:  #181818;
     font-style: normal;
     font-weight: 600;
 }
 .banner-descreption{
     color:#757575;
-    font-size:15px;
+    font-size:13px;
     font-weight:400;
+    margin-bottom: 10px;
 }
 .person_img{
     width: 100%;
