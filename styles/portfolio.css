@@ -191,3 +191,37 @@ header{
     margin-bottom: 1px;
     margin-right: 1px;
 }
+.btn-2{
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+/* footer section */
+footer{
+    background: #FFF8F3;
+    margin-top: 150px;
+    padding-top: 100px;
+}
+.footer{
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+footer form .input{
+    display: block;
+    padding: 10px 220px 10px 10px;
+    margin-bottom: 8px;
+}
+footer form .message{
+    display: block;
+    padding: 10px 220px 80px 10px;
+    margin-bottom: 10px;
+
+}
+.lets-connect{
+    padding-right: 100px;
+    width: 50%;
+}
+footer form h2 , .lets-connect h2{
+    margin-bottom: 20px;
+}
