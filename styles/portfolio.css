@@ -117,9 +117,19 @@ header{
 }
 .info h4{
     color:#474747;
-    font-size: 17px;
+    font-size: 15px;
     font-weight: 600;
 }
 .info , .email , .date-of-birth , .from{
     margin: 4px 7px;
+}
+/* what i do section */
+.what-i-do{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+.what-i-do h2{
+    margin-bottom: 20px;
 }
