@@ -5,7 +5,8 @@
 nav{
     display:flex;
     justify-content: space-between;
-    margin-top: 20px;
+    margin-top: 0px;
+    padding-top: 20px;
 }
 nav li{
     list-style: none;
@@ -14,11 +15,11 @@ nav li{
 }
 nav ul {
     display: flex;
-    margin-right: 130px;
+    margin-right: 90px;
     align-items: center;
 }
 nav h2 {
-    margin-left: 126px;
+    margin-left: 93px;
     color: #181818;
 }
 .primary-text{
@@ -33,6 +34,25 @@ nav h2 {
     border-radius: 5px;
 }
 /* banner style  */
+header{
+    background: #FFF8F3;
+    background-image: url(/images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 45%;
+}
+/* .developer-image{
+    background-image: url(/images/developer.png);
+    background-repeat: no-repeat;
+    font-size: 100px;
+} */
+.developer-image{
+    display: flex;
+}
+.developer-img{
+    width: 75%;
+    margin-left: 10px;
+}
 .btn{
     color:#FD6E0A;
     border: 1px solid #FD6E0A;
@@ -43,7 +63,7 @@ nav h2 {
 }
 .banner{
     display: flex;
-    margin-left: 126px;
+    margin-left: 26px;
     margin-right: 38px;
     align-items: center;
 }
@@ -67,5 +87,5 @@ nav h2 {
     margin-bottom: 10px;
 }
 .person_img{
-    width: 100%;
+    width: 93%;
 }
