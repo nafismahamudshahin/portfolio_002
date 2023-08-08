@@ -19,7 +19,7 @@ nav ul {
     align-items: center;
 }
 nav h2 {
-    margin-left: 93px;
+    margin-left: 142px;
     color: #181818;
 }
 .primary-text{
@@ -36,7 +36,7 @@ nav h2 {
 /* banner style  */
 header{
     background: #FFF8F3;
-    background-image: url(images/header_bg.png);
+    background-image: url(/images/header_bg.png);
     background-repeat: no-repeat;
     background-position: bottom right;
     background-size: 48%;
